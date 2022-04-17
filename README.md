@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React | Task Reminder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mini React Project - Uses json server to record tasks. Use form to add a new record and double click on a current record to store it as "reminder".
+
+Run "npm run server" before making new records.
 
 ## Available Scripts
 
